@@ -1,4 +1,4 @@
-# Assignment 5 - Public Key Cryptography
+Public Key Cryptography
 This program encrypts and decrypts ciphertext using a RSA algorithm  
 decrypt.c: This contains the implementation and main() function for the decrypt program.  
 encrypt.c: This contains the implementation and main() function for the encrypt program.  
@@ -10,9 +10,7 @@ randstate.h: This specifies the interface for initializing and clearing the rand
 rsa.c: This contains the implementation of the RSA library.  
 rsa.h: This specifies the interface for the RSA library.  
 Makefile: builds and cleans the files needed to run in the assignment.  
-README.md: contains the program documentation and information regarding file specification. This also lists any potencial bugs as well as program options and instructions to run the program.  
-DESIGN.pdf: describes and contains the pseudocode as well as blueprint in regards to planning and thinking process for how the progrogram was appraoched and designed. It allows for others to understand and follow how to program the assignment as well.  
-WRITEUP.pdf: describes the commands used in the assigment and an explanation for the thinkign and planning process of the assignment as well as discussion on the steps used for each file  
+README.md: contains the program documentation and information regarding file specification. This also lists any potencial bugs as well as program options and instructions to run the program.   
 
 ## Building
 Run the following to build the encrypt, decrypt, and keygen executables
